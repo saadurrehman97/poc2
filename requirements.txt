@@ -1,0 +1,33 @@
+# Core dependencies
+torch>=2.0.1
+torchvision>=0.15.2
+faster-coco-eval>=1.6.6
+PyYAML
+tensorboard
+scipy
+calflops
+transformers
+loguru
+numpy>=1.24.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+onnx
+onnxsim
+onnxruntime-gpu
+
+# PDF processing
+PyMuPDF>=1.23.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# Web interface
+streamlit>=1.28.0
+streamlit-extras>=0.3.0
+
+# Data handling
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+plotly>=5.17.0
